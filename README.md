@@ -1,2 +1,14 @@
 # yaxing-route-notes
-HTML page archive and documentation
+
+静态页面归档仓库
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
